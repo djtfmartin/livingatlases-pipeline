@@ -1,4 +1,4 @@
-package org.gbif.example.interpretation;
+package org.gbif.livingatlases.interpretation;
 
 import org.gbif.pipelines.assembling.GbifInterpretationPipeline;
 import org.gbif.pipelines.assembling.interpretation.steps.InterpretationStep;

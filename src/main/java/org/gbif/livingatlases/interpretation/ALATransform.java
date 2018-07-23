@@ -1,4 +1,4 @@
-package org.gbif.example.interpretation;
+package org.gbif.livingatlases.interpretation;
 
 import org.gbif.pipelines.common.beam.Coders;
 import org.gbif.pipelines.core.interpretation.Interpretation;

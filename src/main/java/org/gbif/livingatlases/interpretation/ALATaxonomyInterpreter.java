@@ -1,4 +1,4 @@
-package org.gbif.example.interpretation;
+package org.gbif.livingatlases.interpretation;
 
 import au.org.ala.names.gprc.GUIDRequest;
 import au.org.ala.names.gprc.GUIDResponse;

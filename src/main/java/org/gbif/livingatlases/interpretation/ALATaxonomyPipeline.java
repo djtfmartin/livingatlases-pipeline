@@ -1,4 +1,4 @@
-package org.gbif.example.interpretation;
+package org.gbif.livingatlases.interpretation;
 
 import org.apache.beam.sdk.transforms.Values;
 import org.gbif.pipelines.io.avro.ALATaxonRecord;

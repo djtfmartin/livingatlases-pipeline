@@ -1,4 +1,4 @@
-package org.gbif.example.interpretation;
+package org.gbif.livingatlases.interpretation;
 
 import org.apache.beam.sdk.annotations.Experimental;
 import org.apache.beam.sdk.options.Description;
