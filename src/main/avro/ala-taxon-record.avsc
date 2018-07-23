@@ -1,0 +1,17 @@
+{
+  "name":"ALATaxonRecord",
+  "namespace":"org.gbif.pipelines.io.avro",
+  "type":"record",
+  "doc":"An ALA Name Match",
+  "fields":[
+    {"name":"id","type":"string"},
+    {"name":"lsid", "type": ["null", "string"], "default" : null },
+    {"name":"cleanName", "type": ["null", "string"], "default" : null },
+    {"name":"acceptedLsid", "type": ["null", "string"], "default" : null },
+    {"name":"left", "type": ["null", "string"], "default" : null },
+    {"name":"right", "type": ["null", "string"], "default" : null },
+    {"name":"rank", "type": ["null", "string"], "default" : null },
+    {"name":"matchType", "type": ["null", "string"], "default" : null },
+    {"name":"synonymType", "type": ["null", "string"], "default" : null }
+  ]
+}
